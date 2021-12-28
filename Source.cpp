@@ -4,6 +4,6 @@
 using namespace std;
 
 int main(int argc, char* argv []){
-  cout << "Hello, World!" << endl;
+  cout << "Hello, World!" << endl; //you would have to use std::cout in case you didn't declare the namespace
   return 0;
 }
